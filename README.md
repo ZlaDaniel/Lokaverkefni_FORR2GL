@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+Höfundur leiks er: Daníel Þór Gestsson
 
-You can use the [editor on GitHub](https://github.com/ZlaDaniel/Lokaverkefni_FORR2GL/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lýsing Leiks:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Leikurinn er frekar einfaldur í spilun og skýrir sig sjálfur. Meginmarkmið leiksins er að skjota ollum 15 kúlum ofan í holu. Uppi í vinstra horninu er svo magn skota sem leikmaður hefur notað og fjöldi rauðra kúlna sem eftir á að skjóta ofan í.
 
-### Markdown
+Myndband:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Framhald:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZlaDaniel/Lokaverkefni_FORR2GL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Það sem ég væri til í að gera í framhaldinu væri að bæta við reglum um pool og gera svörtu kúluna eins og hún á að vera.
