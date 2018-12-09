@@ -11,3 +11,7 @@ https://screencast-o-matic.com/watch/cFlQ3orzlK
 Framhald:
 
 Það sem ég væri til í að gera í framhaldinu væri að bæta við reglum um pool og gera svörtu kúluna eins og hún á að vera.
+
+Github Link:
+
+https://github.com/ZlaDaniel/Lokaverkefni_FORR2GL
