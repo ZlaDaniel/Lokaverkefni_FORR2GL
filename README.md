@@ -6,6 +6,7 @@ Leikurinn er frekar einfaldur í spilun og skýrir sig sjálfur. Meginmarkmið l
 
 Myndband:
 
+https://screencast-o-matic.com/watch/cFlQ3orzlK
 
 Framhald:
 
